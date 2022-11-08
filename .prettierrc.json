@@ -1,1 +1,7 @@
-{}
+{
+  "singleQuote": true,
+  "trailingComma": "none",
+  "semi": false,
+  "quoteProps": "as-needed",
+  "endOfLine": "auto"
+}
